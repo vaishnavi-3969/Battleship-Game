@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Battleship1.Battleship-task-out.main" target="11" />
+      <module name="Battleship1.Battleship-task.main" target="11" />
+      <module name="Battleship1.Topics-Abstract_class-An_incorrect_statement.main" target="11" />
+      <module name="Battleship1.Topics-Abstract_class-Shape_hierarchy.main" target="11" />
+      <module name="Battleship1.Topics-Abstract_class-Theory.main" target="11" />
+      <module name="Battleship1.Topics-Abstract_class-Users_and_WebSites.main" target="11" />
+      <module name="Battleship1.Topics-Array_exceptions-A_line_that_throws_an_exception.main" target="11" />
+      <module name="Battleship1.Topics-Array_exceptions-Calculate_Square.main" target="11" />
+      <module name="Battleship1.Topics-Array_exceptions-Determine_an_exception.main" target="11" />
+      <module name="Battleship1.Topics-Array_exceptions-Is_the_code_fully_protected.main" target="11" />
+      <module name="Battleship1.Topics-Array_exceptions-Statements.main" target="11" />
+      <module name="Battleship1.Topics-Array_exceptions-Theory.main" target="11" />
+      <module name="Battleship1.Topics-Array_exceptions-Where_an_exception_occurs.main" target="11" />
+      <module name="Battleship1.Topics-Custom_exceptions-Custom_exceptions_features.main" target="11" />
+      <module name="Battleship1.Topics-Custom_exceptions-DriverNotReadyException.main" target="11" />
+      <module name="Battleship1.Topics-Custom_exceptions-Exception_chaining.main" target="11" />
+      <module name="Battleship1.Topics-Custom_exceptions-Handle_incorrect_inputs.main" target="11" />
+      <module name="Battleship1.Topics-Custom_exceptions-Square_class.main" target="11" />
+      <module name="Battleship1.Topics-Custom_exceptions-Theory.main" target="11" />
+      <module name="Battleship1.Topics-Files-Are_siblings.main" target="11" />
+      <module name="Battleship1.Topics-Files-Theory.main" target="11" />
+      <module name="Battleship1.Topics-Hierarchy_of_exceptions-BadRequestException.main" target="11" />
+      <module name="Battleship1.Topics-Hierarchy_of_exceptions-Base_class.main" target="11" />
+      <module name="Battleship1.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Battleship1.Topics-Hierarchy_of_exceptions-UncheckedException.main" target="11" />
+      <module name="Battleship1.Topics-Inheritance-Classes_for_Hospital.main" target="11" />
+      <module name="Battleship1.Topics-Inheritance-Incorrect_class_hierarchies.main" target="11" />
+      <module name="Battleship1.Topics-Inheritance-Theory.main" target="11" />
+      <module name="Battleship1.Topics-Input_streams-Byte_vs_character_input_streams.main" target="11" />
+      <module name="Battleship1.Topics-Input_streams-Convert_to_bytes.main" target="11" />
+      <module name="Battleship1.Topics-Input_streams-Count_words.main" target="11" />
+      <module name="Battleship1.Topics-Input_streams-Read_into_an_array.main" target="11" />
+      <module name="Battleship1.Topics-Input_streams-Reverse_input_text.main" target="11" />
+      <module name="Battleship1.Topics-Input_streams-Theory.main" target="11" />
+      <module name="Battleship1.Topics-NPE-Avoid_NPE.main" target="11" />
+      <module name="Battleship1.Topics-NPE-Avoid_NPE_with_strings.main" target="11" />
+      <module name="Battleship1.Topics-NPE-Code_that_throws_an_exception.main" target="11" />
+      <module name="Battleship1.Topics-NPE-Lines_that_may_throw_NPE.main" target="11" />
+      <module name="Battleship1.Topics-NPE-Return_empty_string_when_argument_is_null.main" target="11" />
+      <module name="Battleship1.Topics-NPE-Theory.main" target="11" />
+      <module name="Battleship1.Topics-NPE-Unknown_input.main" target="11" />
+      <module name="Battleship1.Topics-NPE-Where_NPE_may_occur.main" target="11" />
+      <module name="Battleship1.Topics-Overloading-A_pair_of_not_overloaded_methods.main" target="11" />
+      <module name="Battleship1.Topics-Overloading-Print.main" target="11" />
+      <module name="Battleship1.Topics-Overloading-Successful_overloading.main" target="11" />
+      <module name="Battleship1.Topics-Overloading-Theory.main" target="11" />
+      <module name="Battleship1.Topics-Overloading-What_can_two_methods_have.main" target="11" />
+      <module name="Battleship1.Topics-Overloading-When_overloading_happens.main" target="11" />
+      <module name="Battleship1.Topics-Package-A_keyword_for_importing_a_class.main" target="11" />
+      <module name="Battleship1.Topics-Package-Accessible_packages.main" target="11" />
+      <module name="Battleship1.Topics-Package-Binary_search.main" target="11" />
+      <module name="Battleship1.Topics-Package-Class_hierarchy.main" target="11" />
+      <module name="Battleship1.Topics-Package-Correct_packages.main" target="11" />
+      <module name="Battleship1.Topics-Package-Creating_instances.main" target="11" />
+      <module name="Battleship1.Topics-Package-Default_packages.main" target="11" />
+      <module name="Battleship1.Topics-Package-Getting_input.main" target="11" />
+      <module name="Battleship1.Topics-Package-Package_features.main" target="11" />
+      <module name="Battleship1.Topics-Package-Purpose.main" target="11" />
+      <module name="Battleship1.Topics-Package-Required_input.main" target="11" />
+      <module name="Battleship1.Topics-Package-Short_names.main" target="11" />
+      <module name="Battleship1.Topics-Package-Sorting_arrays.main" target="11" />
+      <module name="Battleship1.Topics-Package-The_default_import.main" target="11" />
+      <module name="Battleship1.Topics-Package-The_full_name_of_a_class.main" target="11" />
+      <module name="Battleship1.Topics-Package-Theory.main" target="11" />
+      <module name="Battleship1.Topics-Package-Which_classes_are_accessible.main" target="11" />
+      <module name="Battleship1.Topics-The_keyword_super-Accessing_constructors_of_a_base_class.main" target="11" />
+      <module name="Battleship1.Topics-The_keyword_super-Bank_account.main" target="11" />
+      <module name="Battleship1.Topics-The_keyword_super-Fix_the_non-compiled_hierarchy.main" target="11" />
+      <module name="Battleship1.Topics-The_keyword_super-Theory.main" target="11" />
+      <module name="Battleship1.Topics-The_keyword_super-When_the_keyword_cannot_be_used.main" target="11" />
+      <module name="Battleship1.Topics-The_keyword_super-Why_we_use_the_super_keyword.main" target="11" />
+      <module name="Battleship1.Topics-Throwing_exceptions-Days_of_the_week.main" target="11" />
+      <module name="Battleship1.Topics-Throwing_exceptions-Possible_declaration.main" target="11" />
+      <module name="Battleship1.Topics-Throwing_exceptions-The_root_of_a_number.main" target="11" />
+      <module name="Battleship1.Topics-Throwing_exceptions-Theory.main" target="11" />
+      <module name="Battleship1.Topics-Throwing_exceptions-Throw_a_checked_exception.main" target="11" />
+      <module name="Battleship1.Topics-Throwing_exceptions-Throw_an_IOException.main" target="11" />
+      <module name="Battleship1.Topics-Throwing_exceptions-Throwable_classes.main" target="11" />
+      <module name="Battleship1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
